@@ -11,8 +11,16 @@ alias l='ls'
 alias cp='cp -i'
 alias mv='mv -i'
 
+# WSL aliases
+alias dsk='cd /mnt/c/Users/badri/Desktop'
+alias dwn='cd /mnt/c/Users/badri/Downloads'
+alias doc='cd /mnt/c/Users/badri/Documents'
+
 # git related aliases
 alias gag='git exec ag'
+
+#python aliases
+alias python='python3'
 
 # Update dotfiles
 dfu() {
